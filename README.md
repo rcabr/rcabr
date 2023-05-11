@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-My [Keybase](https://keybase.io/) profile with proofs of other accounts I control.
-
 <!--
 **rcabr/rcabr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
